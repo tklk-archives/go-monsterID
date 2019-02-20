@@ -1,4 +1,4 @@
-package monsterid
+package monsterid // import "src.techknowlogick.com/monster-id"
 
 import (
 	"bytes"
