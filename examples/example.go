@@ -4,7 +4,7 @@ import (
 	"os"
 	"fmt"
 	"image/png"
-	"github.com/techknowlogick/go-monsterID"
+	"src.techknowlogick.com/monster-id"
 )
 
 func main() {
